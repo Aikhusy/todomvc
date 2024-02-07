@@ -7,7 +7,7 @@ import View from './view';
 
 const $on = helpers.$on;
 const setView = () => todo.controller.setView(document.location.hash);
-
+//ADAD
 class Todo {
 	/**
 	 * Init new Todo List
